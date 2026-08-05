@@ -1,0 +1,11 @@
+{
+  "tenantId": "tenant-a",
+  "correlationId": "rank-34-demo-001",
+  "target": "development",
+  "requestedAction": "plan_log_analytics_cost_optimizer",
+  "credentialMode": "workload_identity",
+  "publicNetworkAccess": false,
+  "evidenceFresh": true,
+  "approved": false,
+  "containsSecret": false
+}
