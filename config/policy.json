@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "1.0",
+  "project": "Log-Analytics-Cost-Optimizer",
+  "rank": 34,
+  "action": "plan_log_analytics_cost_optimizer",
+  "allowedCredentialModes": [
+    "managed_identity",
+    "workload_identity"
+  ],
+  "protectedTargets": [
+    "production",
+    "break-glass"
+  ],
+  "allowedTenantIds": [
+    "tenant-a"
+  ]
+}
